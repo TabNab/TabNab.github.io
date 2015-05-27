@@ -1,12 +1,14 @@
 ---
 layout:     post
-title:      "Google Ventures: 不是所有产品都要看着漂亮"
+title:      "Google Ventures: 
+            不是所有产品都要看着漂亮"
 date:       2015-05-27 22:00:00
 author:     "JOHN ZERATSKY"
 header-img: "img/post-bg-06.jpg"
 ---
 
-<p>翻译来自John Zeratsky的文章 <a href= "http://www.wired.com/2015/05/google-ventures-not-every-product-needs-beautiful/">Google Ventures: Not Every Product Needs to Be Beautiful</a>
+<p>翻译来自John Zeratsky的文章 
+<br><a href= "http://www.wired.com/2015/05/google-ventures-not-every-product-needs-beautiful/">Google Ventures: Not Every Product Needs to Be Beautiful</a>
 <div style="width:100%;overflow:hidden;margin:0 auto;">
 <img style="float:right;" src="http://www.wired.com/wp-content/uploads/2015/05/473217856-289x301.jpg" alt="" />
    <p>当科技创业者和CEO们去甄选投资对象时，往往会把视觉设计作为一个关注点，试图去创造一个拥有优美产品和炫酷风格的成熟品牌。
