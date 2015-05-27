@@ -1,0 +1,17 @@
+# Site settings
+title: TabNab
+header-img: img/home-bg.gif
+email: TabNab_wei@yahoo.com
+description: "Everything Open | Only One Secret"
+baseurl: ""
+url: "http://TabNab.github.io"
+twitter_username: 
+github_username:  TabNab
+facebook_username:  Sienna Wei
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
