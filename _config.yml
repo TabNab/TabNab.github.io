@@ -7,7 +7,7 @@ baseurl: ""
 url: "http://TabNab.github.io"
 twitter_username: 
 github_username:  TabNab
-facebook_username:  Sienna Wei
+facebook_username:  sienna.wei.1
 
 # Build settings
 markdown: kramdown
