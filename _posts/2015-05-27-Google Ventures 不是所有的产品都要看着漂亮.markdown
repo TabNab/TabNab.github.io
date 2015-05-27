@@ -5,7 +5,8 @@ date:       2015-05-27 22:00:00
 author:     "JOHN ZERATSKY"
 header-img: "img/20150527/bg.jpg"
 ---
-<p>翻译来自John Zeratsky的文章 <a href= "http://www.wired.com/2015/05/google-ventures-not-every-product-needs-beautiful/">Google Ventures: Not Every Product Needs to Be Beautiful</a>
+
+<p>翻译来自John Zeratsky的文章 <a href= "http://www.wired.com/2015/05/google-ventures-not-every-product-needs-beautiful/">Google Ventures: Not Every Product Needs to Be Beautiful</a></p>
 
 <p>当科技创业者和CEO们去甄选投资对象时，往往会把视觉设计作为一个关注点，试图去创造一个拥有优美产品和炫酷风格的成熟品牌。<img src
 ="img/20150527/pic_1.jpg"></p>
