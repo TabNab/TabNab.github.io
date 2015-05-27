@@ -8,7 +8,7 @@ header-img: "img/post-bg-06.jpg"
 
 <p>翻译来自John Zeratsky的文章 <a href= "http://www.wired.com/2015/05/google-ventures-not-every-product-needs-beautiful/">Google Ventures: Not Every Product Needs to Be Beautiful</a>
 <div style="width:500px;overflow:hidden;margin:0 auto;">
-<img style="float:right;" src="img/20150527/pic_1.jpg" alt="" />
+<img style="float:right;" src="TabNab.github.io/img/20150527/pic_1.jpg" alt="" />
    <p>当科技创业者和CEO们去甄选投资对象时，往往会把视觉设计作为一个关注点，试图去创造一个拥有优美产品和炫酷风格的成熟品牌。</p>
    <p>在当下这个被苹果产品席卷市场的科技世界，这种投资的考虑是可以理解的。现在有太多的成功的企业创造出精美绝伦的产品，而视觉设计是设计领域中最令人关注的，这是因为当人们想到设计时，第一个出现在脑海里的便是视觉设计。</p>
 </div>
