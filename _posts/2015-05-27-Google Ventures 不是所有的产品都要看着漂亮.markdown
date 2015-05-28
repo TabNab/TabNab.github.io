@@ -3,7 +3,7 @@ layout:     post
 title:      "Google Ventures: 
             不是所有产品都要看着漂亮"
 date:       2015-05-27 22:00:00
-author:     "JOHN ZERATSKY"
+author:     "Sienna Wei"
 header-img: "img/post-bg-06.jpg"
 ---
 
