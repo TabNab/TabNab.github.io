@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Introduction to R and RStudio"
-date:       2015-05-29 22:00:00
+date:       2015-05-31 14:00:00
 author:     "Sienna Wei"
 header-img: "img/post-bg-03.jpg"
 ---
@@ -406,7 +406,7 @@ NULL
 
 </pre>
 <p>这里我们创建了一个有15个连续数字的数字向量，<code>dim</code> 变量不存在，用<code>dim</code> 函数返回的是NULL。如果我们赋予一个向量<code>3, 5</code>给dim，里面的数据就会自动排列来适应这个新生成的矩阵。我们将这个向量变成了一个具有5行3列的矩阵<code>5, 3</code>。最后维度也和一开始的不一样了。</p>
-<p>It is also possible to combine / expand / alter vectors, dataframes and matrices by using <code>cbind</code> and <code>rbind</code>:</p>
+<p>可以合并/扩展/改变向量，数据框和矩阵都可以使用<code>cbind</code> 和 <code>rbind</code>:</p>
 <pre class="brush: r; title: ; notranslate" title="">
 &gt; v &lt;- 1:5
 &gt; x &lt;- 6:10
