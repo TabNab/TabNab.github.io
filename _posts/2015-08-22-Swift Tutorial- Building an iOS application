@@ -6,7 +6,7 @@ author:     "Sienna Wei"
 header-img: "img/post-bg-06.jpg"
 ---
 
-<p>翻译来自Jack Watson-Hamblin的文章 
+<p>翻译来自Jack Watson-Hamblin的文章</p> 
 <br><a href= "https://www.airpair.com/swift/building-swift-app-tutorial/">Swift Tutorial: Building an iOS application</a>
         
 
