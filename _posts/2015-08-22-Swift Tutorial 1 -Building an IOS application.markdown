@@ -8,7 +8,81 @@ header-img: "img/post-bg-06.jpg"
 
 <p>翻译来自Jack Watson-Hamblin的文章</p> 
 <br><a href= "https://www.airpair.com/swift/building-swift-app-tutorial/">Swift Tutorial: Building an iOS application</a>
+ 
+ <html lang="en-US" prefix="og: http://ogp.me/ns#" ng-app="AP" ng-strict-di>
+<head>
+  <title>Swift Tutorial: Building an iOS application- Part 1</title>
+  <meta name="description" content="Swift expert Jack Watson-Hamblin walks through the basics of building an iOS app in Apple&#x27;s new language, which has set the developer world abuzz."/>
+  
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:title" content="Swift Tutorial: Building an iOS application- Part 1"/>
+  <meta property="og:description" content="Swift expert Jack Watson-Hamblin walks through the basics of building an iOS app in Apple&#x27;s new language, which has set the developer world abuzz."/>
+  <meta property="og:image" content="https://img.youtube.com/vi/c9fLt69OB20/hqdefault.jpg"/>
+  <meta property="og:url" content="https://www.airpair.com/swift/building-swift-app-tutorial"/>
+  <link rel="canonical" href="https://www.airpair.com/swift/building-swift-app-tutorial" />
+
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <link rel="stylesheet" href="/static/styles/libs-588bf637b4.css" type="text/css" />
+  <link rel="stylesheet" href="/static/styles/index-098148cb28.css" type="text/css" />
+  <link rel="alternate" type="application/rss+xml" href="https://www.airpair.com/rss" title="AirPair Rss" />
+  <base href="/" />
+</head>
+<body><script type="text/javascript">
+//<![CDATA[
+try{(function(a){var b="https://",c="www.airpair.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
+//]]>
+</script>
+<header>
+  <a href="/" tile="airpair.com pair programming"></a>
+
+  <ul>
+    <li class="login"><a href="/login" target="_self">Login</a></li>
+    <li class="find nomob"><a href="/find-an-expert" target="_self">Find an expert</a></li>
+    <li class="exp nomob"><a href="/be-an-expert" target="_self">Help others</a></li>
+    <li class="ps"><a href="/posts" target="_self">Posts</a></li>
+    <li class="more nomob"><a>More</a>
+      <ul class="more">
+        <li><a href="/blog" target="_self" class="blog">AirPair Blog</a></li>
+        <li><a href="/rss" target="_self" class="rss">Rss</a></li>
+        <li><a href="/privacy" target="_blank" class="pp">Privacy</a></li>
+      </ul>
+    </li>
+  </ul>
+</header>
+
+<div class="main-wrap">
+  <div notifications></div>
+  <main ng-view>
+    <div id="serverTemplate">
         
+<div class="banner-top" banner-posttop></div>
+
+<article class="blogpost">
+
+  <h1 class="entry-title" itemprop="headline">Swift Tutorial: Building an iOS application-Part 1</h1>
+
+
+  <div class="railMarker"></div>
+
+  <h4 id="table-of-contents">Table of Contents</h4>
+  <ul>
+<li><a href="#1-introduction">1 Introduction</a></li>
+<li><a href="#2-what-you-need">2 What You Need</a></li>
+<li><a href="#3-getting-started">3 Getting Started</a></li>
+<li><a href="#4-learning-by-example">4 Learning By Example</a><ul>
+<li><a href="#4-1-appdelegate-swift">4.1 AppDelegate.swift</a></li>
+<li><a href="#4-2-masterviewcontroller-swift">4.2 MasterViewController.swift</a></li>
+<li><a href="#4-3-detailviewcontroller-swift">4.3 DetailViewController.swift</a></li>
+</ul>
+</li>
+<li><a href="#5-coming-up-next">5 Coming Up Next</a></li>
+</ul>
+
+
+  <p class="asset"><iframe width="640" height="360" frameborder="0" allowfullscreen="" src="//www.youtube-nocookie.com/embed/c9fLt69OB20"></iframe></p>
+  <hr />       
 
 <post no-compile><h2 id="1-introduction">1 Introduction</h2>
 <p>在2014年WWDC大会上发布的Swift引爆了全世界的Apple开发者。随着Swift这种新兴语言的诞生，已经不存在真正的专家可言，对于设计模式的探索一刻也未曾停歇。</p>
