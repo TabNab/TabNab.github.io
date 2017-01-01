@@ -51,15 +51,16 @@ header-img: "img/post-bg-06.jpg"
 <p></p>
 <p>行走</p>
 
+<li>长白山</li>
 ![长白山](http://upload-images.jianshu.io/upload_images/721952-61cdc3a10bdade16.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
+<li>千岛湖</li>
 ![千岛湖](http://upload-images.jianshu.io/upload_images/721952-0eb3037f0d1bd961.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
+<li>成都</li>
 ![成都](http://upload-images.jianshu.io/upload_images/721952-7a710d9a46e32048.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
+<li>海南</li>
 ![海南](http://upload-images.jianshu.io/upload_images/721952-8f5afc117fd845f5.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 <p></p>
 <p></p>
